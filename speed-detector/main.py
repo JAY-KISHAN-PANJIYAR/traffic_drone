@@ -13,7 +13,7 @@ from tracker import Tracker
 
 
 if __name__ == '__main__':
-	# The one I first used for testing; after staring at it so much, I've grown attached to this road :3
+	
 	the_og_base_url = 'http://wzmedia.dot.ca.gov:1935/D3/89_rampart.stream/'
 
 	BASE_URL = 'http://wzmedia.dot.ca.gov:1935/D3/80_whitmore_grade.stream/'
